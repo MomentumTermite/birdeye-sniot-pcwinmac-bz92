@@ -1,4 +1,4 @@
-# 
+# 原生 birdeye sniper bot 脚本 Mac OS版 | 免费 birdeye sniper bot 脚本 PC Windows版。集成 回滚处理 和 止损保护，跨平台性能最大化。
 
 
 
